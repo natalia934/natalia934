@@ -98,19 +98,10 @@ I don't just study theory. I build projects, solve problems, and push code consi
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathaliasantos/nathaliasantos/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathaliasantos/nathaliasantos/output/github-snake.svg"/>
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/nathaliasantos/nathaliasantos/output/github-snake-dark.svg"/>
-</picture>
+
+
 
 <br/>
-
----
-
-<br/>
-
-<div align="center">
 
 ###  Let's Connect
 
