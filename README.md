@@ -85,7 +85,7 @@ I don't just study theory. I build projects, solve problems, and push code consi
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff8fc7)](https://linkedin.com/in/nathalia-santos)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff8fc7)](https://www.linkedin.com/in/nathalia-santos-063bab278/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BenavxNWaSrmU1J8e3PByWg%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff8fc7)](mailto:nathaliasantos5432@email.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff8fc7)](https://github.com/nathalia934)
 [![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff8fc7)](https://instagram.com/yx.nathalia_)
