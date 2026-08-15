@@ -1,31 +1,25 @@
 # natalia934
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Nathalia+Santos&fontSize=38&fontColor=ffffff&fontAlignY=60&animation=fadeIn&desc=Backend+Developer+in+the+Making&descSize=18&descAlignY=78&descColor=d8b4fe" width="100%"/>
-
-<br/>
-
-<div align="center">
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff8fc7&height=120&section=header" width="100%"/>
 
+<h2>Nathalia Santos</h2>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=FF8FC7&center=true&vCenter=true&repeat=true&width=650&height=45&lines=Backend+Developer+in+the+Making;Java+%26+C+%E2%80%94+My+weapons+of+choice;I+think+in+logic+and+speak+in+code;Passionate+about+performance+%26+systems;Computer+Science+%40+PUC+Goi%C3%A1s;Open+to+my+first+opportunity+in+tech" alt="Typing SVG" />
+
+![Open to Work](https://img.shields.io/badge/status-open%20to%20work-ff8fc7?style=for-the-badge&logo=briefcase&logoColor=black)
+![Location](https://img.shields.io/badge/location-Goi%C3%A1s%2C%20Brazil-000000?style=for-the-badge&logo=googlemaps&logoColor=ff8fc7)
+![University](https://img.shields.io/badge/PUC%20Goi%C3%A1s-Computer%20Science-000000?style=for-the-badge&logo=googlescholar&logoColor=ff8fc7)
 
 </div>
-<div align="center">
 
-<sub>Backend Developer</sub>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&repeat=true&width=750&height=45&lines=Hello%21+My+name+is+Nathalia+Santos;Backend+Developer+in+the+Making;Java+%26+C+%E2%80%94+My+weapons+of+choice;I+think+in+logic+and+speak+in+code;Passionate+about+performance+%26+systems;Computer+Science+%40+PUC+Goi%C3%A1s;Open+to+my+first+opportunity+in+tech" alt="Typing SVG" />
-
-</div>
-</div>
 <br/>
 
 ---
 
 <br/>
 
-###  About Me
+### About Me
 
 I'm **Nathalia Santos**, a Computer Science student at **PUC Goiás** — first semester, fully committed to becoming a solid **Backend Developer**.
 
@@ -35,35 +29,26 @@ I don't just study theory. I build projects, solve problems, and push code consi
 
 <br/>
 
-- Goiás, Brazil
-- PUC Goiás · Computer Science · 1st Semester
-- Backend focus — Java · C · OOP · Algorithms
-- Currently studying: Data Structures, Memory Management & REST APIs
-- **Actively seeking first opportunity as a Backend Developer**
-
-
-<br/>
-
 ---
 
 <br/>
 
 <div align="center">
 
-###  Tech Stack
+### Tech Stack
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,c,git,github,linux,vscode&theme=dark&perline=6" height="62"/>
+<img src="https://skillicons.dev/icons?i=java,c,python,git,github,linux&theme=dark&perline=6" height="65"/>
 
 <br/><br/>
 
-![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=d8b4fe)
-![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=d8b4fe)
-![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=a855f7)
-![Linux](https://img.shields.io/badge/Linux-0d0d0d?style=for-the-badge&logo=linux&logoColor=d8b4fe)
-![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=a855f7)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff8fc7)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ff8fc7)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ff8fc7)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff8fc7)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff8fc7)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=ff8fc7)
 
 </div>
 
@@ -75,20 +60,16 @@ I don't just study theory. I build projects, solve problems, and push code consi
 
 <div align="center">
 
-###  GitHub Stats
+### GitHub Stats
 
 <br/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=nathaliasantos&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=a855f7&icon_color=d8b4fe&text_color=6b7280&custom_title=Nathalia's+Stats&count_private=true&include_all_commits=true&hide=issues"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaliasantos&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=a855f7&text_color=6b7280&custom_title=Most+Used+Languages&langs_count=2&hide=html,css,javascript,typescript,python,shell"/>
 
 <br/><br/>
 
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=nathaliasantos&hide_border=true&background=0d0d0d&ring=a855f7&fire=7c3aed&currStreakLabel=a855f7&sideNums=d8b4fe&dates=4b5563&sideLabels=6b7280&currStreakNum=ffffff&stroke=1f1f1f"/>
-
+<img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=nathaliasantos&hide_border=true&background=000000&ring=ff8fc7&fire=ff8fc7&currStreakLabel=ff8fc7&sideNums=ff8fc7&dates=4b5563&sideLabels=6b7280&currStreakNum=ffffff&stroke=1f1f1f"/>
 <br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nathaliasantos&bg_color=0d0d0d&color=a855f7&line=7c3aed&point=d8b4fe&area=true&area_color=3b0764&hide_border=true&custom_title=Contribution+Graph" width="96%"/>
+<br/><br/>
 
 </div>
 
@@ -98,31 +79,28 @@ I don't just study theory. I build projects, solve problems, and push code consi
 
 <br/>
 
+<div align="center">
 
-
-
-<br/>
-
-###  Let's Connect
+### Let's Connect
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=d8b4fe)](https://linkedin.com/in/nathalia-santos)
-[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:nathaliasantos5432@email.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=d8b4fe)](https://github.com/nathalia934)
-[![Instagram](https://img.shields.io/badge/Instagram-0d0d0d?style=for-the-badge&logo=instagram&logoColor=a855f7)](https://instagram.com/yx.nathalia_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ff8fc7)](https://linkedin.com/in/nathalia-santos)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=ff8fc7)](mailto:nathaliasantos5432@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ff8fc7)](https://github.com/nathalia934)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ff8fc7)](https://instagram.com/yx.nathalia_)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nathaliasantos&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=nathaliasantos&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=ff8fc7)
 
 <br/>
 
-> *"First, solve the problem. Then, write the code."*  
+> *"First, solve the problem. Then, write the code."*
 > — John Johnson
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ff8fc7&height=100&section=footer" width="100%"/>
